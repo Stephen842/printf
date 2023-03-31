@@ -4,7 +4,7 @@
  * get_flags - calculates active flags
  * @format: formatted string in which to print the arguments
  * @i: take a parameter
- * return: flags
+ * Return: flags
  */
 int get_flags(const char *format, int *i)
 {
